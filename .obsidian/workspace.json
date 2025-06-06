@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "de71ac3df8170dae",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f12281441b8ff06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cb4d9347f848174",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大数据技术原理与应用/分布式文件系统HDFS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "分布式文件系统HDFS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2a90bd9eda96a53",
+    "type": "split",
+    "children": [
+      {
+        "id": "e68c0e83b0de6ba6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03c6ef3651ee8516",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "640f8b1fac439714",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "61de3f5ee843d474",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0b474b124ca2b774",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff96f83f271d4879",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "967f9a8072043b17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a70c3d29f5f39536",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "大数据技术原理与应用/分布式文件系统HDFS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "分布式文件系统HDFS 的出链列表"
+            }
+          },
+          {
+            "id": "4fc20fe38fb109ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "81b466d26bd4c5e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "大数据技术原理与应用/分布式文件系统HDFS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "分布式文件系统HDFS 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": true,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "5cb4d9347f848174",
+  "lastOpenFiles": [
+    "task/2025-06-14 四级.md",
+    "task/2025-06-19 大数据 15-107-1.md",
+    "task/2025-06-19 Javaweb 15-107-2.md",
+    "java-tutorial/ch13_common_class.md",
+    "java-tutorial/ch12_exception.md",
+    "java-tutorial/ch10_oop_advanced.md",
+    "java-tutorial/ch08_opp_intermediate.md",
+    "java-tutorial/ch07_oop_fundamentals.md",
+    "java-tutorial/ch06_arrays_sort_and_search.md",
+    "java-tutorial/ch05_program_control_structure.md",
+    "java-tutorial/ch04_operator.md",
+    "java-tutorial/ch03_variable.md",
+    "java-tutorial/ch02_java_overview.md",
+    "Exploit/java后端/java基础/抽象类和接口.md",
+    "Exploit/java后端/java基础/反射(reflect).md",
+    "Exploit/java后端/java基础/面向对象编程.md",
+    "2025-06-17.md",
+    "task/2025-06-18 Java 15-219-14.md",
+    "task/2025-06-18 习思 15-519-17.md",
+    "task/2025-06-17 英语 11-208-56.md",
+    "task/2025-06-13 机器学习 15-207-30.md",
+    "task/2025-06-13 机器学习.md",
+    "task/期末考试.md",
+    "task",
+    "机器学习课件all/2.2 logit regression.pdf",
+    "机器学习课件all/2.1 linear regression - 勘误版本.pdf",
+    "机器学习课件all/1.Measure.pdf",
+    "机器学习课件all/6. Subspace Learning——PCA and LDA_勘误版.pdf",
+    "机器学习课件all/7. clustering.pdf",
+    "机器学习课件all/5. The application of SVM.pdf",
+    "机器学习课件all/5. Support Vector Machine_New.pdf",
+    "机器学习课件all/4. Neural Networks.pdf",
+    "机器学习课件all/3. Decision Tree.pdf"
+  ]
+}

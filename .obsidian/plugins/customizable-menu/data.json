@@ -1,0 +1,23 @@
+{
+  "menuCommands": [
+    {
+      "id": "file-explorer:new-file",
+      "name": "新建笔记",
+      "icon": "lucide-file-plus",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "N"
+        }
+      ]
+    },
+    {
+      "id": "outline:open",
+      "name": "大纲: 显示大纲页面",
+      "icon": "lucide-list"
+    }
+  ],
+  "hideTitles": []
+}
